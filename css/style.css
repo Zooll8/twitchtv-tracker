@@ -1,0 +1,111 @@
+body {
+  background-color: #FFC914;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.maintop {
+  background-color: #A7C5BD;
+  width: 650px;
+  height: 100px;
+  margin: 50px auto 0px;
+  -webkit-box-shadow: 10px 5px 24px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 5px 24px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 5px 24px 0px rgba(0,0,0,0.75);
+  border: 1px solid black;
+}
+
+.mainbody {
+  background-color: white;
+  width: 650px;
+  margin: 0px auto;
+  border: 1px solid black;
+  height: 100px;
+  -webkit-box-shadow: 10px 5px 24px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 5px 24px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 5px 24px 0px rgba(0,0,0,0.75);
+}
+
+#title {
+  font-size: 40px;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#twitch {
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  margin-top: 5px;
+  padding-left: 20px;
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 55px;
+}
+
+.btn {
+  font-family: 'Bungee', cursive;
+  font-size: 10px;
+}
+
+#group {
+  position: absolute;
+  margin-left: 550px;
+  margin-top: 8px;
+}
+
+#twitchlogo {
+  width: 90px;
+}
+
+.image {
+  height: 80px;
+  margin-top: 8px;
+  margin-left: 25px;
+  border-radius: 50%;
+}
+
+.description {
+  background-color: white;
+  height: 65px;
+  width: 370px;
+  margin-top: -70px;
+  margin-left: 270px;
+  padding-top: 20px;
+  border: 1px solid #3B3D58;
+}
+
+.title {
+  background-color: white;
+  height: 50px;
+  margin-top: -60px;
+  margin-left: 120px;
+  width: 140px;
+  border: 1px solid #3B3D58;
+  padding-top: 12px;
+  font-size: 18px;
+}
+
+#author {
+  font-size: 30px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.green {
+  background-color: #C0D890 !important;
+}
+
+.red {
+  background-color: #2A363B !important;
+}
+
+.novice {
+  background-color: #FF847C !important;
+}
+
+#twitch:hover {
+  text-decoration: none;
+}
